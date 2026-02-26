@@ -84,8 +84,8 @@ Mastering these fundamentals is the first step toward architect-level thinking.
 I document my cloud and system design journey here:
 
 - LinkedIn: [https://www.linkedin.com/in/jani-shaik-a1550731/]
-- Hashnode Blog (Architecting Scale): [Add your Hashnode link]
-- GitHub Profile: [Add profile link]
+- Hashnode Blog (Architecting Scale): [https://janishaik.hashnode.dev/]
+- GitHub Profile: [https://github.com/JaniShaik]
 
 ---
 
