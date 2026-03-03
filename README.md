@@ -51,6 +51,20 @@ Deep dive into:
 
 ---
 
+### 3️⃣ AWS IAM – Identity Architecture
+
+Deep dive into:
+
+- Users & Groups
+- Policies & JSON structure
+- Least privilege principle
+- Roles vs static credentials
+- MFA & password policies
+- IAM auditing tools
+
+👉 Read here:
+[aws-iam-architecture.md](./aws-iam-architecture.md)
+
 ## 🏗 Architectural Perspective
 
 Before deploying workloads to AWS, every architect should understand:
